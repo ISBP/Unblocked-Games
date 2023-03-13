@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Turlock Rock and Gem Show</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/css/style.css">
       <link href="/media/rock_icon.png" rel="icon" />
 </head>
 <body>
