@@ -50,7 +50,7 @@
     </section>
 </main>
 
-<footer>
+<footer class="footer">
     <p>&copy; 2023 Turlock Rock and Gem Show</p>
 </footer>
 </body>
