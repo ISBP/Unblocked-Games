@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Turlock Rock and Gem Show</title>
     <link rel="stylesheet" href="style.css">
-      <link href="favicon.png" rel="icon" />
+      <link href="/media/rock_icon.png" rel="icon" />
 </head>
 <body>
     <header>
@@ -28,7 +28,7 @@
       
         <p>Our show features exhibits of rocks and fossils from around the world! See some of our pictures below:</p>
  <video controls style="width: 640px; height: 450px;">
-  <source src="video.mp4" type="video/mp4">
+  <source src="/media/rock_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
