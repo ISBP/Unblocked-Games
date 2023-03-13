@@ -20,12 +20,12 @@
     </header>
 <main>
     <section id="about">
-        <h2>About the Show</h2>
+      <h2>About the Show</h2></button>
         <p>Join us for our annual rock and gem show! This event is a celebration of all things rock and mineral. Browse through thousands of unique specimens and connect with like-minded enthusiasts. Whether you're an experienced collector or just starting out, there's something for everyone at our show.</p>
     </section>
-
     <section id="exhibitors">
-        <h2>Exhibits</h2>
+      <h2>Exhibits</h2></button>
+      
         <p>Our show features exhibits of rocks and fossils from around the world! See some of our pictures below:</p>
  <video controls style="width: 640px; height: 450px;">
   <source src="video.mp4" type="video/mp4">
@@ -51,7 +51,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2023 Rock and Gem Show</p>
+    <p>&copy; 2023 Turlock Rock and Gem Show</p>
 </footer>
 </body>
 </html>
