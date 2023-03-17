@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Math Help</title>
     <link rel="stylesheet" href="style.css">
-      <link href="/media/rock_icon.png" rel="icon" />
+      <link href="/media/image.png" rel="icon" />
 </head>
 <body>
     <header>
@@ -18,7 +18,7 @@
     </section>
     <section id="">
       <h2>Tutorials</h2></button>
-       <img src="error.png" alt="" width="640" height="480">
+       <iframe src="https://unblocked-games.pbsi.repl.co/tutorials.php" title="W3Schools Free Online Web Tutorials" width=600 height=400></iframe>
 </main>
 
 <footer class="footer">
