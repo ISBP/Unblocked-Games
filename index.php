@@ -3,7 +3,7 @@
 <head>
   <script src="script.js"></script>
     <meta charset="UTF-8">
-    <title>Math Help</title>
+    <title>Math Help Tutorials</title>
     <link rel="stylesheet" href="style.css">
       <link href="/media/image.png" rel="icon" />
 </head>
