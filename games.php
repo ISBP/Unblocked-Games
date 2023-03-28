@@ -18,7 +18,7 @@
   
   <h1>Slope</h1>
     <a href="/slope.php">
-  <img src="https://play-static.unity.com/20210320/p/images/a67259db-b315-42d2-bb09-283c0111e7bb_2D_Platformer_Screenshot.png" alt="2D Runner" width="640" height="480">
+  <img src="https://lh3.googleusercontent.com/YWXah6WStuEwUaCb-FdcxdyEBBUWNYs8I64Pxd7Yl5VqhGMgOYPsiSC7nFoMweppcKOtuF0D1FV5VWslM5ev_Hb0=w640-h400-e365-rj-sc0x00ffffff" alt="2D Runner" width="640" height="480">
 </a>
   
     
