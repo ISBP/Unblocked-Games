@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <title>Math Help</title>
     <link rel="stylesheet" href="style.css">
-      <link href="/media/rock_icon.png" rel="icon" />
+      <link href="favicon.ico" rel="icon" />
 </head>
 <body>
     <header>
-        <h1><a href="games.php">Click Me!</a></h1>
+        <h1><a href="games.php">C̷l̸i̴c̵k̵ ̷H̶e̷r̸e̴ ̴F̷o̶r̵ ̷G̶a̵m̶e̵s̵</a></h1>
     </header>
 <main class="footer">
     <section id="about">
