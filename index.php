@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1><a href="games.php">Click Here for g a m e s</a></h1>
+        <h1><a href="games.php">Click Me!</a></h1>
     </header>
 <main class="footer">
     <section id="about">

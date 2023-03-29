@@ -8,8 +8,8 @@ body {
 
 /* Style the header */
 header {
-  background-color: #00A9E0;
-  color: white;
+  background-color: #e0005a;
+  color: blaco;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -33,7 +33,7 @@ header li {
 }
 
 header a {
-  color: white;
+  color: #360764;
   text-decoration: none;
   font-size: 1.2em;
   font-weight: bold;
@@ -41,7 +41,7 @@ header a {
 }
 
 header a:hover {
-  color: #FFC72C;
+  color: #4d0693;
 }
 
 /* Style the main content */
@@ -53,7 +53,7 @@ main {
 
 main h2 {
   font-size: 2em;
-  color: #00A9E0;
+  color: #e0005a;
   margin-top: 40px;
   margin-bottom: 20px;
 }
@@ -74,13 +74,13 @@ main li {
 }
 
 main a {
-  color: #00A9E0;
+  color: #e0005a;
   text-decoration: none;
   transition: color 0.2s ease-in-out;
 }
 
 main a:hover {
-  color: #FFC72C;
+  color: #4d0693;
 }
 
 main address {
@@ -96,12 +96,12 @@ form {
 label {
   display: block;
   margin-bottom: 10px;
-  color: #00A9E0;
+  color: #e0005a;
 }
 
 input,
 textarea {
-  border: 2px solid #00A9E0;
+  border: 2px solid #e0005a;
   border-radius: 5px;
   padding: 10px;
   font-size: 1em;
@@ -110,8 +110,8 @@ textarea {
 }
 
 button[type="submit"] {
-  background-color: #00A9E0;
-  color: white;
+  background-color: #e0005a;
+  color: blaco;
   border: none;
   border-radius: 5px;
   padding: 10px 20px;
@@ -121,11 +121,11 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-  background-color: #FFC72C;
+  background-color: #4d0693;
 }
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #565252;
+  color: blaco;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -141,7 +141,7 @@ button[type="submit"]:hover {
 
 .collapsible:after {
   content: '\002B';
-  color: white;
+  color: blaco;
   font-weight: bold;
   float: right;
   margin-left: 5px;
@@ -156,7 +156,7 @@ button[type="submit"]:hover {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  background-color: #4e3b3b;
 }
 .footer {
   min-height: calc(100vh - 120px);
