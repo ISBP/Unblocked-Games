@@ -10,7 +10,7 @@
     <header>
         <h1><a href="games.php">⬅</a></h1>
     </header>
-<iframe src="https://slope-game.cgolden15.repl.co" allowtransparency="true" width="1200" height="700" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://slope-game.cgolden15.repl.co" allowtransparency="true" width="1500" height="650" frameborder="0" scrolling="no" allowfullscreen></iframe>
       
       
        
